@@ -1,6 +1,9 @@
-# Local Development
+# Forbitswap
 
-The following assumes the use of `node@>=10`.
+In-depth documentation on forbitswap is available at forbitswap.com.
+
+## Local Development
+The following assumes the use of node@>=10.
 
 ## Install Dependencies
 
